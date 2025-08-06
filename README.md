@@ -1,6 +1,6 @@
 # 🎬 Emby Letterboxd Lists to Collections Plugin 📽️
 
-![LetterboxdListCollections Logo](Emby.LetterboxdListCollections/ThumbImage.jpg)
+![LetterboxdListCollections Logo](ThumbImage.jpg)
 
 ### _"Your collections are about to get LEGENDARY!"_ 🏆
 
@@ -228,11 +228,11 @@ Made with 🍿 by developers who have WAY too many movies
 ## Screen Shots
 
 ### Overview of the plugin dashboard:
-![overview.png](Emby.LetterboxdListCollections/overview.png)
+![overview.png](overview.png)
 ### Adding a new collection:
-![new_collection.png](Emby.LetterboxdListCollections/new_collection.png)
+![new_collection.png](new_collection.png)
 ### Collection activity log:
-![logs_1.png](Emby.LetterboxdListCollections/logs_1.png)
+![logs_1.png](logs_1.png)
 ---
 
 **P.S.** - If you're still creating collections manually in 2024, we need to talk... 😱
